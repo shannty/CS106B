@@ -1,0 +1,7 @@
+TITLE::=START NOUN PREP OBJ
+START::=A|The
+NOUN::=Song|Dance|Clash|Game|Feast|Dream
+PREP::=of|for|with
+OBJ::=PLURNOUN|SEASON
+PLURNOUN::=Thrones|Kings|Swords|Crows|Dragons
+SEASON::=Winter|Spring|Summer|Autumn

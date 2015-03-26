@@ -1,0 +1,18 @@
+10
+13
+-------------
+---X-----X---
+----X---X----
+---XXXXXXX---
+--XX-XXX-XX--
+-XXXXXXXXXXX-
+-X-XXXXXXX-X-
+-X-X-----X-X-
+----XX-XX----
+-------------
+
+# Space invader!
+# He's a little skinny though...
+# So skinny that he dissapears after 9 generations!
+# Shan Rajapakshe
+# 02/07/2014

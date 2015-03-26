@@ -1,0 +1,2 @@
+For some reason, paperless wouldn't take myinput.txt
+Perhaps the file is too big (it was a novel!...)?
